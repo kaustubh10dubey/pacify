@@ -1,105 +1,3 @@
-# Pacify - A mental health awareness website
-
-### [GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/) Open Source Program
-<br/>
-
-<a href="https://gssoc.girlscript.tech/">
-<img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" alt="GSSoC">
-</a>
-<br/><br>
-
-> This project is accepting contributions under [GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/) - three months long Open Source program conducted by [GirlScript Foundation](https://gssoc.girlscript.tech/).
-<br/><br/>
-## Inspiration
-
-Mental health refers to a person's psychological, emotional, and social well-being; it influences what they feel and how they think, and behave.
-An emotionally fit and stable person always feels vibrant and truly alive and can easily manage emotionally difficult situations. But in today's times,
-mental sickness is becoming a growing issue..According to research conducted on adults, mental illness affects 19% of the adult population. Nearly one 
-in every five children and adolescents on the globe has a mental illness. These alarming statistics reflect the wider prevalence of mental ill-health.
-This makes poor mental health a global problem needed to be solve as soon as possible.
-
-## Project Description
-
-Pacify provides some instant and effective solution to this problem. Using this will help one to develop good mental habits and develop a positive and 
-healthy mindset.
-Pacify provides various features:
-
-- **_Quiz_:** The quiz section helps you discover about the mental health problems you are currently dealing with by asking some questions regarding your daily 
-behavior, actions and feelings.
-
-- **_Journal_:** Journaling can help reduce anxiety, lessen feelings of stress, and increase an individual's mental well-being. You can use the journal to write 
-down your thoughts, feelings and emotions as it can free up your mind and re-install calmness.
-
-- **_Pomodoro Timer_:** In the pandemic, work level has greatly increased and a lot of people sit in front of their computers for prolonged periods of time. It 
-is not healthy for your mind to work for long periods of time without a break. Using the Pomodoro Timer feature you can implement small breaks into your work.
-
-- **_Yoga Gallery_:** Mental health is not only about the mind, it is also about the body. It is crucial for you to occasionally take some time and just relax your whole body. Yoga is a great way of doing this. You can search and sort through the gallery to find the type of yoga and poses that you like the best.
-
-**_Articles_:** You can read about some useful and informative information.
-
-## Tech Stack 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## What you can contribute
-- Documentation
-- Any new feature 
-- Add sign-up form
-- Chat-bot
-- Add backend
-- Many more relevant features on acceptance
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Project Images
-**_Home Page_:**
-![Home Page](https://github.com/Hackathon7/Pacify-final/blob/master/images%20file/Home.png)
-
-**_Features_:**
-![Features Page](https://github.com/Hackathon7/Pacify-final/blob/master/images%20file/Features.png)
-
-**_Articles_:**
-![Articles](https://github.com/Hackathon7/Pacify-final/blob/master/images%20file/Articles.png)
-
-**_Quiz_:**
-![Quiz-Quest](https://github.com/Hackathon7/Pacify-final/blob/master/images%20file/Quiz-Quest.png)
-
-**_Quiz Result_:**
-![Quiz-Sample-Result](https://github.com/Hackathon7/Pacify-final/blob/master/images%20file/Quiz-Result.png)
-
-## Project Maintainers
-
-<div>
-<table>
-  <tbody><tr>
-     <td align="center"><a href="https://github.com/mp3730"><img alt="" src="https://avatars.githubusercontent.com/mp3730" width="130px;"><br><sub><b> Mansi Prajapati </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/srai0109"><img alt="" src="https://avatars.githubusercontent.com/srai0109" width="130px;"><br><sub><b> Shikha Rai </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/vartika0605"><img alt="" src="https://avatars.githubusercontent.com/vartika0605" width="130px;"><br><sub><b> Vartika Gupta </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/Tvisha07"><img alt="" src="https://avatars.githubusercontent.com/Tvisha07" width="130px;"><br><sub><b> Tvisha Srivastava </b></sub></a><br></td> </a></td>
-  </tr>
-</tbody></table>
-
-<h1 align="center"> </h1>
-
-
-
-<h1 align="center">Our valuable Contributors ✨</h1>
-
-<a href="https://github.com/Hackathon7/Pacify-final/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Hackathon7/Pacify-final"/>
-</a>
-
- <br>
- 
-
-
-
-<h1> 📌 Contributing Guidelines </h1>
 ## Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
@@ -151,11 +49,11 @@ You can use github explore - https://github.com/explore to find a project that i
 
 <p align="center">  <img  src="https://i.imgur.com/P0n6f97.png">  </p>
 
-Click on fork to create a copy of project to your account. This creates a separate copy for you to work on.
+Click on fork to create a copy of project to your account. This creates a separate copy for you to workon.
 
 ### FINDING A FEATURE OR BUG TO WORKON - 
 
-Open Source projects always have something to work on and improves with each new release. You can see the issues section to find something you can solve or report a bug. The project managers always welcome new contributors and can guide you to solve the problem. You can find issues in the right section of project page.
+Open Source projects always have something to workon and improves with each new release. You can see the issues section to find something you can solve or report a bug. The project managers always welcome new contributors and can guide you to solve the problem. You can find issues in the right section of project page.
 
 <p align="center">  <img  src="https://i.imgur.com/czVjpS7.png">  </p>
 
@@ -232,18 +130,3 @@ Remember your upstream base branch should be master and source should be your fe
 Awesome! You have made your first contribution. If you have any doubts please let me know in the comments.
 
 #### BE OPEN!
-
-<div align="center">
-
-<a href="https://hackathon7.github.io/Pacify-final/"><img src="https://sloc.xyz/github/Hackathon7/Pacify-final"    alt="LOC" /></a>
-<a href="https://hackathon7.github.io/Pacify-final/"><img src="https://img.shields.io/github/stars/Hackathon7/Pacify-final" alt="Stars Badge" /></a>
-<a href="https://github.com/Hackathon7/Pacify-final/network/members"><img src="https://img.shields.io/github/forks/Hackathon7/Pacify-final" alt="Forks Badge" /></a>
-<a href="https://github.com/Hackathon7/Pacify-final/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hackathon7/Pacify-final" ></a>
-
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
-
-
-</div>
